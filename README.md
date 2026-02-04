@@ -18,15 +18,15 @@ Nesta atividade, você deve editar o arquivo read.py e desenvolver uma rotina ca
 
 Ao desenvolver a atividade deve ser realizada a leitura do arquivo, extração do texto e por fim análise dos dados. Para a extração de textos dos PDFs, é sugerido o uso da biblioteca pdfplumber. Além disso, para a extração de informações do texto é sugerido o uso de expressões regulares a partir da biblioteca re, e com o objetivo de organizar e visualizar as informações é sugerido o uso da biblioteca pandas. 
 
-As informações obtidas devem ser exibidas e estruturadas de acordo com a seguinte tabela, além disso é possível observar o gabarito da atividade.
+As informações obtidas devem ser exibidas e estruturadas de acordo com a seguinte tabela:
 
 |                 Campo                |    Valor    | 
 |--------------------------------------|-------------|
-|              Instalação              |   12385675  |
-|                   Mês                |   OUT/2023  |
-|      Tarifa cheia (com impostos)     |   0,881145  |
-|         Valor da distribuidora       |    219,14   |
-|    Somatório de energia injetada     |     1950    |
+|             Instalação               |             |
+|             Referência               |             |
+|      Tarifa cheia (com impostos)     |             |
+|         Valor da distribuidora       |             |
+|    Somatório de energia injetada     |             |
 
 # Teste 2
 
