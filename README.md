@@ -13,7 +13,7 @@ Nesta atividade, você deve editar o arquivo read.py e desenvolver uma rotina ca
 - O número da instalação
 - Mês ao qual a fatura é referente
 - Tarifa cheia (com impostos)
-- Valor da distribuidora
+- Valor A Pagar para a distribuidora
 - Somatório das componentes de energia injetada
 
 Ao desenvolver a atividade deve ser realizada a leitura do arquivo, extração do texto e por fim análise dos dados. Para a extração de textos dos PDFs, é sugerido o uso da biblioteca pdfplumber. Além disso, para a extração de informações do texto é sugerido o uso de expressões regulares a partir da biblioteca re, e com o objetivo de organizar e visualizar as informações é sugerido o uso da biblioteca pandas. 
